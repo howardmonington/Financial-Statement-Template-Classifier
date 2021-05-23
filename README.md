@@ -25,6 +25,7 @@ The accounting treatment of Industrial companies is different from Financial com
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook](https://github.com/lukemonington/financial-statement-classifier/blob/main/main_ai.ipynb)
+* [Project Writeup](https://github.com/lukemonington/financial-statement-classifier/blob/main/Write%20Up%20on%20My%20Approach.docx)
 
 
 ## Contributing Members
